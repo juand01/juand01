@@ -1,5 +1,5 @@
 <div id="Header" align="ceneter">
-    <img scr="https://www.gifsanimados.org/data/media/218/pinguino-imagen-animada-0194.gif" widht="200"/>
+    <img scr="https://www.gifsanimados.org/data/media/218/pinguino-imagen-animada-0194.gif" widht="200" />
     <h1 aling="center">Hi, I'm Juan David.🐧</h1>
     <h3 aling="center"></h3>
 </div>
