@@ -4,14 +4,6 @@
     <h3 aling="center"></h3>
 </div>
 
----
-
-<div id="badges" aling="center">
-    <img hraft="https://img.shields.io/github/watchers/juand01/juand01?color=turquoise&label=viewers&style=social"
-        alt="GitHub Readme Badge"/>
-    
-</div>
-
 --- 
 
 ### About Me 🐧
