@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="Header" align="ceneter">
+    <img scr="https://www.gifsanimados.org/data/media/218/pinguino-imagen-animada-0194.gif" widht="200"/>
+    <h1 aling="center">Hi, I'm Juan David.🐧</h1>
+    <h3 aling="center"></h3>
+</div>
 
-<!--
-**juand01/juand01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div id="badges" aling="center">
+    <img hraft="https://img.shields.io/github/watchers/juand01/juand01?color=turquoise&label=viewers&style=social"
+        alt="GitHub Readme Badge"/>
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+### About Me 🐧
+
+- I am currently learning python🐍
+- 
