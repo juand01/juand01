@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juand01" alt="juand01" /></a> </p>
 
-- 💻 I’m currently learning **Python🐍**
+- 💻 I'm always learning 🐍
 
 
 </p>
